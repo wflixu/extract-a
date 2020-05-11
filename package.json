@@ -1,0 +1,25 @@
+{
+  "name": "extract-a",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wflixu/extract-a.git"
+  },
+  "keywords": [
+    "string",
+    "link",
+    "a",
+    "href"
+  ],
+  "author": "wflixu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wflixu/extract-a/issues"
+  },
+  "homepage": "https://github.com/wflixu/extract-a#readme"
+}
