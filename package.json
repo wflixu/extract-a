@@ -1,6 +1,6 @@
 {
   "name": "extract-a",
-  "version": "0.0.4",
+  "version": "1.0.0",
   "description": "extract a element from a string",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
