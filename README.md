@@ -33,6 +33,4 @@ console.log(nodesArray);
 
 # todo
 
-- [ ] jest 测试
-- [ ] TypeScript 支持
 
