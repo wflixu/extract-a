@@ -1,8 +1,9 @@
 {
   "name": "extract-a",
-  "version": "0.0.3",
-  "description": "",
+  "version": "0.0.4",
+  "description": "extract a element from a string",
   "main": "lib/index.js",
+  "types": "lib/index.d.ts",
   "scripts": {
     "test": "jest",
     "build": "tsc"
